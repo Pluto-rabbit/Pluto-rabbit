@@ -4,7 +4,7 @@ Crafting digital experiences with purpose.
 Where clean code meets intuitive design.
 
 🎯 What Drives Me:
-   Software Development • UX Design • Creative Solutions
+   ``Software Development • UX Design • Creative Solutions``
 
 🌱 Current Focus:
    Mastering Tailwind CSS for building scalable design systems
